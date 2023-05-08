@@ -8,8 +8,8 @@ DJANGO Stack Developer & Machine Learning Enthusiast
 I've been working in this industry for 2 years, after switching a lot of domains I found my interests in the backend development. I started with HTML and CSS but later switched to the server-side development part along with the basic knowledge of DevOps. I usually focus on nourishing my skills every day and learning new tech stacks whenever necessary.
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [Tanay Vaswani](http://pradhumngautam.bio.link)
-* ✉️  You can contact me at [vaswani.tanay9@gmail.com](mailto:pradhumngautam0506@gmail.com)
+* 🖥️  See my portfolio at [Pradhumn Gautam](http://pradhumngautam.bio.link)
+* ✉️  You can contact me at [pradhumngautam0506@gmail.com](mailto:pradhumngautam0506@gmail.com)
 * 🚀  I'm currently working on [Web Development](http://)
 * 🧠  I'm learning Python and Django as of now.
 * 🤝  I'm open to collaborating on projects having a good use of Java, Spring & Spring Boot, JDBC OR Python, Django, MongoDB.
@@ -44,10 +44,3 @@ I've been working in this industry for 2 years, after switching a lot of domains
 
 <p align="centre"> <a href="https://www.dev.to/tanayvaswani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Tanay#3313" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tanayvaswani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://tanayvaswani.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tanay_vaswani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tanayvaswani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iTanayVaswani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tanayvaswani"><img src="https://github-readme-stats.vercel.app/api?username=tanayvaswani&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="tanayvaswani's GitHub stats" /></a>
-
-<a href="http://www.github.com/tanayvaswani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanayvaswani&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
