@@ -2,7 +2,7 @@
 Hi 👋 I'm Pradhumn Gautam
 ==============================
 
-DJANGO Stack Developer & Machine Learning Enthusiast
+Django Stack Developer & Machine Learning Enthusiast
 -------------------------------------
 
 I've been working in this industry for 2 years, after switching a lot of domains I found my interests in the backend development. I started with HTML and CSS but later switched to the server-side development part along with the basic knowledge of DevOps. I usually focus on nourishing my skills every day and learning new tech stacks whenever necessary.
