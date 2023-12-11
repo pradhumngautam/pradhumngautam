@@ -22,3 +22,5 @@ Working for almost an year now, after exploring quite a lot of domains I develop
 
 - Connect with me on [**X**](https://www.twitter.com/pradhumngautam).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/pradhumngautam).
+
+![](https://komarev.com/ghpvc/?username=pradhumngautam&color=blue&style=for-the-badge&label=Profile+Views)
