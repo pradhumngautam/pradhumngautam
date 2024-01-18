@@ -5,7 +5,7 @@
 Working for almost an year now, after exploring quite a lot of domains I developed my interest in Machine Learning & MERN stack.
 
 - Based in **New Delhi, India**.
-- See my portfolio at [**Pradhumn Gautam**](http://pradhumngautam.bio.link).
+- See my portfolio at [**Pradhumn Gautam**](https://pradhumn-gautam.vercel.app/).
 - You can contact me on [**Email**](mailto:pradhumngautam0506@gmail.com) or [**Twitter**](https://www.twitter.com/pradhumngautam).
 - I'm learning **React.js, TailwindCSS** nowadays!  
 
