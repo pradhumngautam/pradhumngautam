@@ -6,7 +6,7 @@ Working for almost an year now, after exploring quite a lot of domains I develop
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Pradhumn Gautam**](https://pradhumn-gautam.vercel.app/).
-- You can contact me on [**Email**](mailto:pradhumngautam0506@gmail.com) or [**Twitter**](https://www.twitter.com/ipradhumngautam).
+- You can contact me on [**Email**](mailto:pradhumngautam0506@gmail.com) or [**X**](https://www.twitter.com/ipradhumngautam).
 - I'm learning **Next.js, TailwindCSS** nowadays!  
 
 ### Skills
@@ -20,7 +20,7 @@ Working for almost an year now, after exploring quite a lot of domains I develop
 
 ### Socials
 
-- Connect with me on [**X**](https://www.twitter.com/ipradhumngautam).
+- Connect with me on [**X**]((https://www.twitter.com/ipradhumngautam)).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/pradhumngautam).
 
 ![](https://komarev.com/ghpvc/?username=pradhumngautam&color=blue&style=for-the-badge&label=Profile+Views)
