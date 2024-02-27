@@ -22,7 +22,7 @@
 
 - Connect with me on [**X/Twitter**](https://www.twitter.com/ipradhumngautam).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/pradhumngautam).
-- Everything on [**Dub**](https://dub.sh/pradhumn).
+- Everything on [**Dub**](https://app.dub.co/pradhumngautam).
 
 ## Projects 
 
