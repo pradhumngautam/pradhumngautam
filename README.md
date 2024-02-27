@@ -4,7 +4,7 @@
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Pradhumn Gautam**](https://pradhumn-gautam.vercel.app/).
-- Reach out to me [**Email**](mailto:pradhumngautam0506@gmail.com) or [**X/Twitter**](https://www.twitter.com/ipradhumngautam).
+- Reach out to me [**Email**](mailto:pradhumngautam0506@gmail.com) or [**X/Twitter**](https://dub.sh/JU7nUKI).
 - Working with **cloudflare, Next.js,socket.io, Containers, Redis, Node.js & WebRTC** nowadays!
 - Diving deep into **Backend Engineering & System Design**.
 
@@ -20,8 +20,8 @@
 
 ## Socials
 
-- Connect with me on [**X/Twitter**](https://www.twitter.com/ipradhumngautam).
-- Add me on [**LinkedIn**](https://www.linkedin.com/in/pradhumngautam).
+- Connect with me on [**X/Twitter**](https://dub.sh/JU7nUKI).
+- Add me on [**LinkedIn**](https://dub.sh/FK69xeE).
 - Everything on [**Dub**](https://dub.sh/pradhumn).
 
 ## Projects 
