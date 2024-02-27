@@ -4,7 +4,7 @@
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Pradhumn Gautam**](https://pradhumn-gautam.vercel.app/).
-- Reach out to me [**Email**](pradhumngautam0506@gmail.com) or [**X/Twitter**](https://www.twitter.com/ipradhumngautam).
+- Reach out to me [**Email**](mailto:pradhumngautam0506@gmail.com) or [**X/Twitter**](https://www.twitter.com/ipradhumngautam).
 - Working with **cloudflare, Next.js,socket.io, Containers, Redis, Node.js & WebRTC** nowadays!
 - Diving deep into **Backend Engineering & System Design**.
 
@@ -22,7 +22,7 @@
 
 - Connect with me on [**X/Twitter**](https://www.twitter.com/ipradhumngautam).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/pradhumngautam).
-- Everyhting on [**Dub**](https://dub.sh/pradhumn).
+- Everything on [**Dub**](https://dub.sh/pradhumn).
 
 ## Projects 
 
@@ -40,7 +40,7 @@
 
 ### 3. [**Blogging-website**](https://github.com/pradhumngautam/blogging-website) (working)
 
-- Webssite which enables user to do CRUD operations on their blogs.
+- Website which enables user to do CRUD operations on their blogs.
 - **Skills**: Javascript/Typescript, React.js,**Hono.js**, Prisma, PostgreSQL, Connection-pooling, TailwindCSS, ShadcnUI, Framer Motion.
 - Backend hosted on **Cloudflare** | [**Live Link**](https://backend.pradhumngautam0506.workers.dev/).
 
