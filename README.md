@@ -38,10 +38,10 @@
 - Collaborative whiteboard which allows users to connect via rooms in a whiteboard.
 - **Skills**: Javascript/Typescript, React.js, Server Actions, Prisma, **Socket.io**, ClerkAuth, TailwindCSS, ShadcnUI, Canvas.
 
-### 3. [**Blogging-website**](https://github.com/pradhumngautam/blogging-website) (working)
+### 3. [**Medium**](https://github.com/pradhumngautam/blogging-website) | [**Live Link**](https://medium-self-beta.vercel.app/)
 
-- Website which enables user to do CRUD operations on their blogs.
-- **Skills**: Javascript/Typescript, React.js,**Hono.js**, Prisma, PostgreSQL, Connection-pooling, TailwindCSS, ShadcnUI, Framer Motion.
+- It is a blogging Website which enables user to do CRUD operations on their blogs.
+- **Skills**: Javascript/Typescript, React.js,**Hono.js**, Prisma, PostgreSQL, Connection-pooling, Custom hooks, TailwindCSS, ShadcnUI, Framer Motion.
 - Backend hosted on **Cloudflare** | [**Live Link**](https://backend.pradhumngautam0506.workers.dev/).
 
 ### 4. [**portfolio**](https://github.com/pradhumngautam/portfolio)| [**Live Link**](https://pradhumn-gautam.vercel.app/)
