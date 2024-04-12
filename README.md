@@ -33,6 +33,11 @@
 - Paytm like platform where users are allowed to send money to their friends.
 - **Skills**: React.js, debouncing, Mongodb, Hashing, TailwindCSS, Session, Filter and Express.js.
 
+### 4. [**portfolio**](https://github.com/pradhumngautam/pradhumn-portfolio)| [**Live Link**](https://dub.sh/portfolio0/)
+
+- Personal portfolio with Home, About, Projects, Contacts section.
+- **Skills**: Javascript/Typescript, Next.js, TailwindCSS, ShadcnUI, Framer Motion.
+
 ### 2. [**realtime-whiteboard**](https://github.com/pradhumngautam/realtime-whiteboard) (working)
 
 - Collaborative whiteboard which allows users to connect via rooms in a whiteboard.
@@ -44,9 +49,5 @@
 - **Skills**: Javascript/Typescript, React.js,**Hono.js**, Prisma, PostgreSQL, Connection-pooling, Custom hooks, TailwindCSS, ShadcnUI, Framer Motion.
 - Backend hosted on **Cloudflare** | [**Live Link**](https://backend.pradhumngautam0506.workers.dev/).
 
-### 4. [**portfolio**](https://github.com/pradhumngautam/portfolio)| [**Live Link**](https://pradhumn-gautam.vercel.app/)
-
-- Personal portfolio with Home, About, Projects, Contacts section.
-- **Skills**: Javascript/Typescript, Next.js, TailwindCSS, ShadcnUI, Framer Motion.
-
 ![](https://komarev.com/ghpvc/?username=pradhumngautam&color=blue&style=for-the-badge&label=Profile+Views)
+
