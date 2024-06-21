@@ -46,7 +46,7 @@
 ### 3. [**Medium**](https://github.com/pradhumngautam/blogging-website) | [**Live Link**](https://medium-self-beta.vercel.app/)
 
 - It is a blogging Website which enables user to do CRUD operations on their blogs.
-- **Skills**: Javascript/Typescript, React.js,**Hono.js**, Prisma, PostgreSQL, Connection-pooling, Custom hooks, TailwindCSS, ShadcnUI, Framer Motion.
+- **Skills**: Javascript/Typescript, React.js, **Hono.js**, Prisma, PostgreSQL, Connection-pooling, Custom hooks, TailwindCSS, ShadcnUI, Framer Motion.
 - Backend hosted on **Cloudflare** | [**Live Link**](https://backend.pradhumngautam0506.workers.dev/).
 
 ![](https://komarev.com/ghpvc/?username=pradhumngautam&color=blue&style=for-the-badge&label=Profile+Views)
