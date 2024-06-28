@@ -16,7 +16,7 @@
 - **Platforms**: GitHub, AWS, Vercel, Cloudflare.
 - **Databases**: MongoDB, PostgreSQL, Supabase, MySQL, Planetscale, NeonDB.
 - **ORM**: Prisma, Mongoose.
-- **Misc**: Redis, RabbitMQ, Nginx, Turborepo(Monorepos), TailwindCSS.
+- **Misc**: Redis, Kubernetes, RabbitMQ, Nginx, Turborepo(Monorepos), TailwindCSS.
 
 ## Socials
 
