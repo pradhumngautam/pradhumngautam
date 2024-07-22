@@ -38,7 +38,7 @@
 - Personal portfolio with Home, About, Projects, Contacts section.
 - **Skills**: Javascript/Typescript, Next.js, TailwindCSS, ShadcnUI, Framer Motion.
 
-### 2. [**realtime-whiteboard**](https://github.com/pradhumngautam/realtime-whiteboard) (working)
+### 2. [**realtime-whiteboard**](https://github.com/pradhumngautam/realtime-whiteboard)(working)
 
 - Collaborative whiteboard which allows users to connect via rooms in a whiteboard.
 - **Skills**: Javascript/Typescript, React.js, Server Actions, Prisma, **Socket.io**, ClerkAuth, TailwindCSS, ShadcnUI, Canvas.
