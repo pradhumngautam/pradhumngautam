@@ -15,7 +15,7 @@
 - **Tools**: Docker, Postman, Bash, Zsh. 
 - **Platforms**: GitHub, AWS, Vercel, Cloudflare.
 - **Databases**: MongoDB, PostgreSQL, Supabase, MySQL, Planetscale, NeonDB.
-- **ORM**: Prisma, Mongoose.
+- **ORM**: Prisma, Mongoose. 
 - **Misc**: Redis, Kubernetes, RabbitMQ, Nginx, Turborepo(Monorepos), TailwindCSS. 
 
 ## Socials
