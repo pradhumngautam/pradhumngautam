@@ -49,5 +49,5 @@
 - **Skills**: Javascript/Typescript, React.js, **Hono.js**, Prisma, PostgreSQL, Connection-pooling, Custom hooks, TailwindCSS, ShadcnUI, Framer Motion.
 - Backend hosted on **Cloudflare** | [**Live Link**](https://backend.pradhumngautam0506.workers.dev/).
 
-![](https://komarev.com/ghpvc/?username=pradhumngautam&color=blue&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=pradhumngautam&color=blue&style=for-the-badge&label=Profile+Views) 
 
