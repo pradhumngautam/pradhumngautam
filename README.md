@@ -8,7 +8,7 @@
 - Working with **cloudflare, Next.js,socket.io, Containers, Redis, Node.js & WebRTC** nowadays! 
 - Diving deep into **Backend Engineering & System Design**.   
  
-## Skills
+## Skills 
 
 - **Languages**: Javascript/TypeScript, Python, C, C++.
 - **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js, Hono.js.
